@@ -1,2 +1,2 @@
 # VMware
-VMware Blog
+VMware Study Blog
